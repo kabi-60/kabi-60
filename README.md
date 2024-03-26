@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning to make MernStack.
 
-- 📫 How to reach me [**Kabilashi2005@gmail.com.com**](mailto:Kabilashi2005@gmail.com).
+- 📫 How to reach me [**Kabilashi2005@gmail.com**](mailto:Kabilashi2005@gmail.com).
 
 - 👨‍💻 All of my projects are available at MyRepository.
 
