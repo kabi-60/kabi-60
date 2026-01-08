@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🏫 Studying **B.Tech Information Technology (2nd Year)** at **SKCET, India**
+- 🏫 Studying **B.Tech Information Technology (4th Year)** at **SKCET, India**
 - 🌱 Currently learning and building projects with the **MERN Stack**
 - 💻 Interested in **Frontend Development & Full-Stack Web Apps**
 - 🚀 Actively working on real-world projects to improve problem-solving skills
